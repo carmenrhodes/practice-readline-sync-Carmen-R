@@ -1,0 +1,23 @@
+{
+  "name": "practice-readline-sync-carmen-r",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carmenrhodes/practice-readline-sync-Carmen-R.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carmenrhodes/practice-readline-sync-Carmen-R/issues"
+  },
+  "homepage": "https://github.com/carmenrhodes/practice-readline-sync-Carmen-R#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
